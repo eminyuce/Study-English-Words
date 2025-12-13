@@ -8,6 +8,8 @@ VocabChain is a vocabulary learning application that allows users to learn words
 ### Language Management
 - Support for unlimited dynamic languages with properties: name, language code, flag emoji, text direction (LTR/RTL), gradient colors, ordering field (integer rank), and creation timestamp
 - Pre-seeded with 7 languages: English, Turkish, Spanish, Arabic, German, Japanese, and French
+- Turkish is the first and default target language in all listings and selectors with ordering rank 1
+- Russian language completely removed from backend storage, frontend UI, seed data, and selectors
 - English is included as a selectable language with its own vocabulary set across four difficulty levels
 - Admin-only language creation with instant UI reflection
 - Each language includes sample vocabulary words loaded from external JSON files
