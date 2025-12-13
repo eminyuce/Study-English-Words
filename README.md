@@ -218,7 +218,7 @@ The backend stores three main data types in stable maps:
 
 Turkish is prioritized as the first language with the following properties:
 - name: "Turkish"
-- code: "tr" 
+- code: "tr"
 - flagEmoji: "🇹🇷"
 - textDirection: LTR
 - gradientStart: "#dc2626"
