@@ -3,6 +3,9 @@
 ## Overview
 VocabChain is a vocabulary learning application that allows users to learn words from multiple languages. The application supports dynamic language creation by admins and tracks user progress across different languages.
 
+## PLAY HERE
+https://english-words-learning-xat.caffeine.xyz/
+
 ## Core Features
 
 ### Language Management
@@ -62,7 +65,6 @@ VocabChain is a vocabulary learning application that allows users to learn words
 
 ### Admin Authentication System
 - Username/password authentication for admin panel access
-- Static credentials: username "admin" and password "1234"
 - Login form with username and password fields
 - Authentication state persists during session using local storage
 - Friendly error message for invalid credentials: "Invalid username or password"
